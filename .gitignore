@@ -189,3 +189,5 @@ typings/
 
 # Stores ClientID and ClientSecret for Google API
 credentials.json
+git-workflow.ps1
+git-workflow.sh
