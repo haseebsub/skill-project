@@ -1,0 +1,145 @@
+GYM FEE REMINDER SYSTEM
+=======================
+
+MEMBER FEE TRACKING
+-------------------
+
+Member ID: ___________
+Name: ________________
+Membership Type: _______
+Monthly Fee: $_________
+Next Due Date: _________
+Payment Method: ________
+
+REMINDER SCHEDULE
+-----------------
+
+Reminder Type    | Days Before Due | Date Sent   | Method     | Status
+-----------------|-----------------|-------------|------------|--------
+1st Reminder     | 7 days         | ___________ | Email      | _____
+2nd Reminder     | 3 days         | ___________ | Email/SMS  | _____
+Final Reminder   | 1 day          | ___________ | SMS        | _____
+Overdue Notice   | 1 day late     | ___________ | Email      | _____
+Final Notice     | 7 days late    | ___________ | Phone      | _____
+
+PAYMENT HISTORY
+---------------
+
+Date       | Amount    | Method     | Status     | Notes
+-----------|-----------|------------|------------|------
+__________ | $_______ | __________ | __________ | _____
+__________ | $_______ | __________ | __________ | _____
+__________ | $_______ | __________ | __________ | _____
+__________ | $_______ | __________ | __________ | _____
+__________ | $_______ | __________ | __________ | _____
+
+OUTSTANDING BALANCE
+-------------------
+
+Current Due: $_________
+Late Fees: $_________
+Total Balance: $_________
+
+PAYMENT ARRANGEMENTS
+--------------------
+
+Arrangement Date: ___________
+Payment Plan: _______________
+Payment Amount: $___________
+Due Dates: _________________
+Status: ____________________
+
+NOTES
+-----
+
+_______________________________________
+_______________________________________
+_______________________________________
+_______________________________________
+_______________________________________
+
+REMINDER TEMPLATES
+==================
+
+7-DAY REMINDER (Email)
+----------------------
+Subject: Friendly Reminder: Your Gym Fee is Due Soon
+
+Dear [Member Name],
+
+This is a friendly reminder that your monthly gym membership fee of $[Amount] is due on [Due Date].
+
+You can make your payment:
+- Online through our member portal
+- By calling our office at [Phone Number]
+- In person at the front desk
+
+Thank you for being a valued member!
+
+Best regards,
+[Your Gym Name] Team
+
+3-DAY REMINDER (Email/SMS)
+--------------------------
+Subject: Payment Due in 3 Days
+
+Hi [Member Name],
+
+Your gym membership payment of $[Amount] is due in 3 days on [Due Date].
+
+Please ensure your payment is made by the due date to avoid late fees.
+
+Questions? Call us at [Phone Number]
+
+1-DAY REMINDER (SMS)
+--------------------
+[Member Name], your gym fee of $[Amount] is due tomorrow ([Due Date]). Please make your payment to avoid late fees. Call [Phone] with questions.
+
+OVERDUE NOTICE (Email)
+----------------------
+Subject: Overdue Payment Notice
+
+Dear [Member Name],
+
+We noticed that your monthly membership payment of $[Amount] was due on [Due Date] and has not yet been received.
+
+Please remit payment immediately to avoid additional late fees and potential suspension of your membership.
+
+Current balance: $[Total Amount]
+Late fees: $[Late Fee Amount]
+Total due: $[Total Balance]
+
+Payment methods:
+- Online portal
+- Credit card authorization
+- In-person at front desk
+
+If you have already made this payment, please disregard this notice.
+
+For payment arrangements, contact us at [Phone Number]
+
+FINAL NOTICE (Email/Phone)
+--------------------------
+Subject: Final Notice: Payment Required
+
+Dear [Member Name],
+
+This is our final notice regarding your overdue membership payment.
+
+Amount due: $[Total Balance]
+Due date: [Due Date]
+Days overdue: [Days] days
+
+Your membership access will be suspended on [Suspension Date] if payment is not received.
+
+To avoid suspension, please remit payment immediately by:
+- Credit card payment over the phone
+- Online payment through our portal
+- In-person payment at our office
+
+Contact us immediately at [Phone Number] to discuss payment options.
+
+Thank you,
+[Your Gym Name] Management
+
+================================
